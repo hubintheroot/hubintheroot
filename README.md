@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=9FE2BF&height=300&section=header&text=Hub%20in%20the-nl-Root&fontSize=90&fontColor=FFFFFF&fontAlign=35&fontAlign=75&fontAlignY=40&fontAlignY=50&desc=frontend%20developer&descSize=35&descAlign=75&descAlignY=72" />
-</div>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
